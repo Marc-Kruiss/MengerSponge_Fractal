@@ -1,0 +1,2 @@
+# 3d Menger-Sponge Fractal
+The Menger Sponge is a fractal that is formed by repeatedly dividing a cube into smaller cubes and removing the smaller cubes from the center of each face, leaving a hole with the shape of a smaller cube. This process is repeated for each of the remaining smaller cubes, resulting in a fractal with an infinite number of holes of decreasing size. The Menger Sponge is a three-dimensional fractal, and it is a example of self-similarity and space-filling curve.
